@@ -1,8 +1,10 @@
 fastapi
 uvicorn
-duckdb
-polars
-pandas
-psycopg2-binary
-python-dotenv
 openai
+pandas
+polars
+duckdb
+sqlalchemy
+psycopg2-binary
+matplotlib
+python-dotenv
