@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+duckdb
+polars
+pandas
+psycopg2-binary
+python-dotenv
+openai
